@@ -1,5 +1,5 @@
 .Hero-banner-resultsgif{
-    height: calc(100vh - 25px);
+    height: calc(40vh - 25px);
     background-image: url(../images/giphy.gif);
     background-size: cover;
     background-repeat: no-repeat;
